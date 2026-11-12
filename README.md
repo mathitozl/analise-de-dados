@@ -36,7 +36,7 @@ Planilhas (Google Sheets), SQL (BigQuery) e, em breve, R e Tableau.
 
 ## Contato
 
-- LinkedIn: [adicione o link aqui]
-- E-mail: [adicione aqui, se quiser]
+- LinkedIn: https://www.linkedin.com/in/matheus-araújo-563699264/
+- E-mail: xmatheus.maiden@gmail.com
 
 Falo português, inglês (intermediário) e italiano.
